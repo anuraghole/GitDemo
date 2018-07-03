@@ -1,0 +1,10 @@
+# This is the comment
+
+#adding folder
+.idea
+
+#adding files
+file_ignore.php
+
+#to add all file of same extention
+*.exe
